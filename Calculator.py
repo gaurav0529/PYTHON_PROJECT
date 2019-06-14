@@ -22,5 +22,5 @@ elif choose=="mod":
     print(a%b)
 else:
     print("\t\t Invalid Operation")
-    print("Please Open Your Headlight(Eyes) And Type Correct Operation.  \n\t\t   ThankYou")
+    print("Please Open Your Headlight(Eyes) And Type Correct Operation.  \n\t\t   ThankYou getout")
     
