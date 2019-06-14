@@ -1,0 +1,28 @@
+If else statement
+
+-->These are Falsy Values
+	a=0
+	a=''/""          in these else statement are executed
+	a=0.0         
+-->These are Truthy values
+	a=1
+	a=' '/ " "       in these if statement are executed
+	a=0.1
+-->In this statement one set of statement is executed among two or more set of statements which is true.
+-->After executing the statement loop is exit.
+_______________________________________________________________________
+Mini program are predefines that are available in library of pythyon.
+--> These are:-
+	int()
+	str()
+	bool()
+	float()
+	list()
+	tuple()
+	dict()
+	input()
+	range()
+	type()
+-->input() is a function of miniprogram. It refers aa value of string/object
+	a=input() string value
+	a=int(input())that the string convert into integer value

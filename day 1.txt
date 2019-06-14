@@ -1,0 +1,90 @@
+Airthmatic operator
+1.for add (+)
+	2+3
+o/p :- 5
+2. For sub (-)
+	2-3
+o/p :- -1
+3. For Multiply (*)
+   eg 2*3
+o/p   6
+4. For Divide (/)
+  eg 5/2
+o/p  2.5
+5. For floor Division - without decimal Point (//)
+  eg  5//2
+  o/p  2
+6. For Modulus - remainder of the division (%)
+   eg  5%2
+  o/p  1
+7. For Exponent (**)
+  eg  2**3
+  o/p  8
+___________________________________________________________
+
+Comparision Operators
+It is used to compare values
+It always gives boolean values i.e True or False
+they are :-
+	<   less than
+	>   more than
+	<=  less than equal to
+	>=  more than equal to
+	!=  not equal to
+	==  equal to
+eg:-  
+	2>5
+	True
+or
+	5/2==2
+	False
+______________________________________________________________
+
+Logical Operators
+These are :-
+	And --> execute if both condition,statement,expression are True.
+ 	Or  --> execute if any one condition,statement,expression are True.
+	Not --> execute if specific condition,statement,expression are False.
+____________________________________________________________________________________
+
+Augumented Assignment Operator
+These are shorthand assignment operator as in C language :-
+	+= --> a+=b (a=a+b)
+	-=  --> a-=b (a=a-b)
+	/= --> a/=b (a=a/b)
+	*= --> a*=b (a=a*b)
+	%= --> a%=b (a=a%b) ................. etc.
+_____________________________________________________________________________________________
+
+Identity Operator
+These are ( "is" and "is not" )
+These are basically used to check two class, values are Identitical or not.
+for eg :-   
+	a=5
+	type(a) is str
+	--> False
+________________________________________________________________________________________________
+ Note:- To know the type of variable type() function is compulsory..
+	There are mainly 4 type of variables in python :- 
+	-->String
+	-->Float
+	-->Boolean
+	-->Integer
+
+-->Everything in Python are class not datatype.
+-->PVM is Python Virtual Machine is a software program which are written in C language.
+-->JVM is Java Virtual Machine is a software program which are written in C language.
+____________________________________________________________________________________________________________
+
+Membership Operator
+-->These are ("in" and "not in").
+-->These are used to check value or something which is belong to its sequence of string.
+-->It will return Boolean Values i.e "true" or "false".
+for eg:-
+	a="hello"
+	"he" in a
+	-->True
+or
+	"hll" in a
+	-->False
+____________________________________________________________________________________________________________
